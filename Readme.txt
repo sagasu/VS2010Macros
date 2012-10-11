@@ -1,0 +1,1 @@
+A basic macro to attach a debugger to w3wp.exe process. I tend to use a shortcut: ctrl+b, ctrl+b
